@@ -94,5 +94,39 @@ const PROJECT={
  "meaningEn":"The four axes describe what you tend to notice when you watch media. They are not four kinds of men, not a personality test, and there is no better result. This quiz is an interactive media exploration, not a validated psychological measure.",
  "meaningZh":"四个维度描述的是你观看媒体时容易注意到什么，不是四种男性、四种性别立场或心理能力，也没有更好的结果。本测验是互动媒体探索，不是经过验证的心理测评。",
  "privacyEn":"Answers stay in this browser. Nothing is sent to a server.",
- "privacyZh":"答案只保留在当前浏览器，不会提交到服务器。"
+ "privacyZh":"答案只保留在当前浏览器，不会提交到服务器。",
+ "about":{
+  "en":{
+   "p1":"Films, advertisements and social media show us powerful heroes, gentle male characters, and stars whose appearance and styling attract attention. Why do certain images appeal to us? Our preferences may feel personal, but they can also relate to the images of the “ideal man” that media repeatedly present.",
+   "p2":"The Masculinity Lens is an interactive media project. Through 28 seven-point rating questions and two unscored situational questions, we invite you to revisit your responses to different male portrayals and consider how these preferences connect with gender expectations, media representation and power.",
+   "explore":"Masculinity concerns socially and culturally shaped expectations about how men should look and behave. These expectations are not fixed and can change across cultures and contexts. Drawing on masculinity and media studies, our project asks: which male portrayals do we admire, and why do those qualities seem worthy of admiration?",
+   "dims":{
+    "P":"Your responses to leadership, success, status and responsibility, including whether you notice how media present these qualities. Paying attention to power does not necessarily mean endorsing it.",
+    "S":"Your responses to men showing gentleness, vulnerability, seeking help, or adopting appearances and forms of expression beyond the conventional tough-guy image.",
+    "L":"How appearance, physique, styling and romantic scenes influence your viewing interest. Appreciating appearance does not imply shallowness or identify your sexuality.",
+    "N":"Whether you notice how media define the “ideal man,” how these standards vary across cultures, and which portrayals receive recognition or are overlooked."
+   },
+   "dimsNote":"These dimensions can overlap, and none is better than another. The group developed them for this experience with inspiration from the readings; they are not four validated categories of people.",
+   "res1":"After answering the questions, you will see a four-axis radar chart and one of eight result cards. Your result summarises your answers to these particular questions. It does not establish a fixed personality, gender identity or moral standing, and there are no correct answers.",
+   "res2":"Flip your card to reveal a question for further reflection. For example, would a celebrity seem equally attractive without his fame or wealth? We hope this encourages you to consider how more varied portrayals do not necessarily mean equal recognition for all masculinities. A gentle character may still be admired partly because he is successful or influential.",
+   "res3":"This experience invites you to understand your viewing preferences, without telling you whom you should find attractive.",
+   "privacy":"Answers remain in the current page, clear when it is refreshed or closed, and are not submitted to a server."
+  },
+  "zh":{
+   "p1":"电影、广告和社交媒体中，有强势的英雄、温柔的男性角色，也有通过外貌和造型吸引观众的明星。我们为什么会被某些形象打动？这些喜好看似很个人，也可能与媒体反复呈现的“理想男性”有关。",
+   "p2":"The Masculinity Lens 是一个互动媒体项目。通过28道七级评分题和2道不计分情境题，我们邀请你回顾自己对不同男性形象的反应，并思考这些偏好与性别期待、媒体再现及权力关系之间的联系。",
+   "explore":"男性气质涉及社会文化中对“男性应该怎样”的期待。这些期待并非固定不变，也会随文化和情境而改变。本项目参考男性气质与媒体研究，关注一个问题：我们欣赏哪些男性形象，又为什么觉得这些特质值得欣赏？",
+   "dims":{
+    "P":"涉及你对领导力、成功、地位和责任的反应，以及是否留意媒体如何呈现这些特质。关注权力并不一定意味着认同权力。",
+    "S":"涉及你如何看待男性的温柔、脆弱、求助，以及不同于传统硬汉形象的外貌和表达方式。",
+    "L":"涉及外貌、身材、造型及浪漫片段如何影响你的观看兴趣。欣赏外貌并不意味着肤浅，也不能据此判断你的性取向。",
+    "N":"涉及你是否留意媒体如何定义“理想男性”，这些标准如何随文化变化，以及哪些形象受到认可、哪些被忽略。"
+   },
+   "dimsNote":"这些维度可以重叠，没有优劣之分。它们由小组参考阅读后为本体验设计，并不是文献中已经验证的四类人。",
+   "res1":"完成答题后，你会看到四维雷达图和八种结果卡中的一种。结果只总结你在这些题目中的回答，不代表固定人格、性别身份或道德水平，也没有标准答案。",
+   "res2":"翻转结果卡，你会看到一个进一步思考的问题，例如：如果一位明星没有名气或财富，他是否仍然同样有吸引力？我们希望借此提醒大家，男性形象更加多样，并不一定意味着所有男性气质都获得同等认可。温柔的角色，也可能部分因为成功或地位而受到欣赏。",
+   "res3":"这个体验希望帮助你理解自己的观看偏好，而不是告诉你应该喜欢谁。",
+   "privacy":"答案仅保留在当前页面，刷新或关闭页面后清除，不会提交给服务器。"
+  }
+ }
 };
